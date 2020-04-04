@@ -6,7 +6,7 @@ My solutions to leetcode problems
 
 [Link](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/)
 
-Week 1: April 1st–April 7th:
+Week 1: April 1st–April 7th
 - [ ] Single Number
   - [link](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/)
   - solution
