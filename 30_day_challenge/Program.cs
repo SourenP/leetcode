@@ -8,11 +8,10 @@ namespace _30_day_challenge
         static void Main(string[] args)
         {
             // Group anagrams
+            Console.WriteLine("== Group Anagrams == ");
             var group_anagrams = new GroupAnagrams.Solution();
-            Debug.Assert(
-                group_anagrams.GroupAnagrams(group_anagrams.GetTestInput()) == 
-                group_anagrams.GetTestOutput()
-            );
+            group_anagrams.PrintOutput(group_anagrams.GroupAnagrams(group_anagrams.GetTestInput()));
+            Console.WriteLine("== == == ");
         }
     }
 }
