@@ -8,8 +8,9 @@ My solutions to leetcode problems
 
 Week 1: April 1st–April 7th
 - [ ] Single Number
-  - [link](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/)
-  - solution
 - [ ] Happy Number
 - [ ] Maximum Subarray
 - [ ] Move Zeroes
+- [ ] Group Anagrams
+  - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/)
+  - [solution](https://github.com/SourenP/leetcode/blob/master/30_day_challenge/group_anagrams.cs)
