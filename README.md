@@ -4,7 +4,23 @@ My solutions to leetcode problems
 
 ## 30-Day LeetCoding Challenge: April 2020
 
-[Link](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/)
+[Link to challenge](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/)
+
+Solving problems in C, C++ and C# for practice.
+
+### Run
+```
+// C#
+dotnet run
+
+// C++
+todo
+
+// C
+todo
+```
+
+### Problems
 
 Week 1: April 1st–April 7th
 - [ ] Single Number
