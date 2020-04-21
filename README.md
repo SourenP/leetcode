@@ -12,5 +12,6 @@ Week 1: April 1st–April 7th
 - [ ] Maximum Subarray
 - [ ] Move Zeroes
 - [X] Group Anagrams
+  - C#
   - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/)
   - [solution](https://github.com/SourenP/leetcode/blob/master/30_day_challenge/group_anagrams.cs)
