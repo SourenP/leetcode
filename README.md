@@ -35,7 +35,7 @@ Week 1: April 1st–April 7th
 - [X] Group Anagrams
   - Language: C#
   - Hints: None
-  - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/) | [solution](30_day_challenge/solutions_c#/src/group_anagrams.cs)
+  - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/) | [solution](30_day_challenge/solutions_c%23/src/group_anagrams.cs)
 
 Week 2: April 8th-April 21st
 - [ ] Middle of Linked List
