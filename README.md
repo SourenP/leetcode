@@ -9,7 +9,7 @@ My solutions to leetcode problems
 Solving problems in C, C++ and C# for practice.
 
 ### Run
-```
+```bash
 cd 30_day_challenge/
 
 // C#
@@ -53,7 +53,7 @@ Week 3
 - [ ] Minimum Path Sum
 - [ ] Search in Rotated Sorted Array
 - [ ] Construct Binary Search Tree from Preorder Traversal
-- [ ] Leftmost Column with at Least a One
+- [X] Leftmost Column with at Least a One
   - Language C++
   - Hints: #1
   - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/) | [solution](30_day_challenge/leftmost_column_with_at_least_a_one.hpp)
