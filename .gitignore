@@ -243,6 +243,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-## C++
+## C/C++
 *.o
-main_cpp
+main
