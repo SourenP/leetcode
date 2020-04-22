@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "leftmost_column_with_at_least_a_one.hpp"
+#include "src/leftmost_column_with_at_least_a_one.hpp"
 
 int main(int argc, char* argv[]) {
     std::cout << "== Leftmost Column with at Least a One === " << std::endl;

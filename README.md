@@ -13,13 +13,16 @@ Solving problems in C, C++ and C# for practice.
 cd 30_day_challenge/
 
 // C#
+cd solutions_c#
 dotnet run
 
 // C++
-make clean && make main_cpp && ./main_cpp
+cd solutions_cpp
+make clean && make main && ./main
 
 // C
-todo
+cd solutions_c
+make clean && make main && ./main
 ```
 
 ### Problems
