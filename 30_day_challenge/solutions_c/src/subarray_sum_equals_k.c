@@ -1,25 +1,5 @@
 #include "subarray_sum_equals_k.h"
 
-// int subarraySum(int* nums, int numsSize, int k) {
-//     int count = 0;
-//     for (int start = 0; start < numsSize; start++) {
-//         for (int end = start; end < numsSize; end++) {
-//             if (arraySum(nums, numsSize, start, end) == k) {
-//                 count++;
-//             }
-//         }
-//     }
-//     return count;
-// }
-
-// int arraySum(int* nums, int numsSize, int start, int end) {
-//     int sum = 0;
-//     for (int i = start; i <= end; i++) {
-//         sum += nums[i];
-//     }
-//     return sum;
-// }
-
 int subarraySum(int* nums, int numSize, int k) {
     int count = 0;
     int lvl_zero[numSize];
