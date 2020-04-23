@@ -57,3 +57,9 @@ Week 3
   - Language C++
   - Hints: #1
   - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/) | [solution](30_day_challenge/solutions_cpp/src/leftmost_column_with_at_least_a_one.hpp)
+
+Week 4
+- [X] Subarray Sum Equals K
+  - Language C
+  - Hints: None
+  - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3307/) | [solution](30_day_challenge/solutions_c/src/subarray_sum_equals_k.c)

@@ -1,7 +1,7 @@
 CC=gcc
-CFLAGS=-I.
-DEPS =
-OBJ = main.o
+CFLAGS=
+DEPS = src/subarray_sum_equals_k.h
+OBJ = main.o src/subarray_sum_equals_k.o
 
 %.o: %.c $(DEPS)
 	$(CC) -c -o $@ $< $(CFLAGS)
