@@ -1,5 +1,4 @@
-CXX = clang++
-CXXFLAGS = -std=c++11 -stdlib=libc++
+CXXFLAGS = -std=c++11
 LDFLAGS =
 CFLAGS = -Wall -Weffc++ -Werror -pedantic -g
 OBJ_LIST = main.o
