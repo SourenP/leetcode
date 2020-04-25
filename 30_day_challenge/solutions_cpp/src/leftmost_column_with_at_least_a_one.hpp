@@ -73,16 +73,16 @@ namespace LeftmostColumnWithAtLeaseAOne {
         }
     };
 
-    BinaryMatrix getTestInput() {
-        return BinaryMatrix({{0, 0, 0, 0, 1, 1},
-                             {0, 0, 0, 1, 1, 1},
-                             {0, 0, 0, 0, 1, 1},
-                             {0, 0, 0, 0, 1, 1},
-                             {0, 0, 0, 1, 1, 1},
-                             {0, 0, 0, 1, 1, 1}});
-    }
+    bool testSolution() {
+        BinaryMatrix binaryMatrix({{0, 0, 0, 0, 1, 1},
+                                   {0, 0, 0, 1, 1, 1},
+                                   {0, 0, 0, 0, 1, 1},
+                                   {0, 0, 0, 0, 1, 1},
+                                   {0, 0, 0, 1, 1, 1},
+                                   {0, 0, 0, 1, 1, 1}});
 
-    void printOutput(int output) {
-        std::cout << output << std::endl;
+        int output = Solution().leftMostColumnWithOne(binaryMatrix);
+        int expected_output = 3;
+        return output == expected_output;
     }
 }; // namespace LeftmostColumnWithAtLeaseAOne
