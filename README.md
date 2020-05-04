@@ -67,7 +67,7 @@ Week 4
   - Failed
 - [X] [LRU Cache]((https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3309/))
   - Failed
-- [X] [Jumping Game]((https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/))
+- [X] [Jumping Game](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/)
   - Paritally solved: [solution](30_day_challenge/solutions_cpp/src/jump_game.hpp)
     - 74 / 75 test cases passed (Status: Time Limit Exceeded)
     - Mistake was not starting from the back of the list as an optimization
