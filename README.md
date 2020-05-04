@@ -63,3 +63,12 @@ Week 4
   - Language C
   - Hints: None
   - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3307/) | [solution](30_day_challenge/solutions_c/src/subarray_sum_equals_k.c)
+- [X] Bitwise AND of Numbers Range
+  - Failed
+  - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3308/)
+- [X]  LRU Cache
+  - Failed
+  - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3309/)
+- [ ] Jumping Game
+  - Language C++
+  - [problem](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/)
